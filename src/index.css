@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple YouTube-like tweaks */
+:root { color-scheme: light dark; }
+body { @apply bg-white text-gray-900; }
+.dark body { @apply bg-black text-white; }
