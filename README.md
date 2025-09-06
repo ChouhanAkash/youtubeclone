@@ -26,3 +26,6 @@ Publish `dist/` and ensure `netlify.toml` exists (SPA redirect).
 - Firebase email/password auth
 - Tailwind YouTube-like UI
 - Redux Toolkit slices for videos, current video, suggestions, auth
+
+## Demo Link
+https://youtubeplusc.netlify.app/
